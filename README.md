@@ -128,6 +128,12 @@ Returns: A p-value under the null Hypothesis that observations are distributed a
 
 Here we show how to use our package with simulated data given in our package.
 
+```
+python hwetests/tests/scripts/asta_test.py
+python hwetests/tests/scripts/umat_test.py
+python hwetests/tests/scripts/umat_with_sampling_test.py
+```
+
 ### ASTA test
 
 ```python
